@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel De Torres</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dangrishh&label=Profile%20views&color=0e75b6&style=flat" alt="dangrishh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dangrishh&label=Profile%20views&color=0e75b6&style=flat" alt="dangrishh" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangrishh&" alt="dangrishh" width="500" height="300"/></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangrishh" alt="dangrishh" width="500"/></a> </p>
