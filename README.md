@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dangrishh&label=Profile%20views&color=0e75b6&style=flat" alt="dangrishh" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangrishh&" alt="dangrishh" width="500" height="300"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangrishh&" alt="dangrishh" width="500" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dangrishh&show_icons=true&locale=en&layout=compact" alt="dangrishh" /></p>
 
 
