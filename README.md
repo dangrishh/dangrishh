@@ -1,4 +1,4 @@
-<p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=0038B3FD&background=39FF2800&center=true&vCenter=true&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+De+Torres;and+I'm+Software+Developer)](https://git.io/typing-svg) </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=0038B3FD&background=39FF2800&center=true&vCenter=true&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+De+Torres;and+I'm+Software+Developer)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dangrishh&label=Profile%20views&color=0e75b6&style=flat" alt="dangrishh" /> </p>
 <br>
