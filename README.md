@@ -6,7 +6,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangrishh&" alt="dangrishh" width="500" /></p>
 <br>
 <p><img align="right:50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dangrishh&show_icons=true&locale=en&layout=compact" alt="dangrishh" /></p>
-<br>
 
 - 🌱 I’m currently learning **Nodejs**
 
