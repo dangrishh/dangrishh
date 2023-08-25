@@ -6,8 +6,8 @@
  
 <br>       
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangrishh&" alt="dangrishh" width="500" /></p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangrishh&" alt="dangrishh" width="500" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dangrishh&show_icons=true&locale=en&layout=compact" alt="dangrishh" /></p>
 
 
