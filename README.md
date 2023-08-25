@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangrishh&" alt="dangrishh" width="500" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dangrishh&show_icons=true&locale=en&layout=compact" alt="dangrishh" /></p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 - 🌱 I’m currently learning **Nodejs**
 
@@ -17,6 +17,8 @@
 - 📫 How to reach me **danieldetorres.info@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/daniel-de-torres-10a021222/](https://www.linkedin.com/in/daniel-de-torres-10a021222/)
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
