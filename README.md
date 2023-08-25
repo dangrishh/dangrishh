@@ -10,11 +10,11 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dangrishh](https://github.com/dangrishh)
+- 👨‍💻 All of my projects are available at [https://github.com/dangrishh](https://github.com/dangrishh)                      
 
 - 📫 How to reach me **danieldetorres.info@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-de-torres-10a021222/](https://www.linkedin.com/in/daniel-de-torres-10a021222/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-de-torres-10a021222/](https://www.linkedin.com/in/daniel-de-torres-10a021222/)             
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
