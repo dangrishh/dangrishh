@@ -1,8 +1,10 @@
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dangrishh&label=Profile%20views&color=0e75b6&style=flat" alt="dangrishh" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dangrishh&label=Profile%20views&color=0e75b6&style=flat" alt="dangrishh" /> </p>
 <br>
 
+<p align="right">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=500&color=0038B3FD&background=39FF2800&center=true&vCenter=true&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+De+Torres;+and+I'm+Software+Developer)](https://git.io/typing-svg)
+</p>
 
 <br>       
 
