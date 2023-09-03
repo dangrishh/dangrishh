@@ -7,7 +7,7 @@
 <br>       
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangrishh&" alt="dangrishh" width="500" /></p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Nodejs & TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dangrishh](https://github.com/dangrishh)                      
 
