@@ -1,7 +1,5 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=500&color=0038B3FD&background=39FF2800&center=true&vCenter=true&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+De+Torres;+and+I'm+Software+Developer)](https://git.io/typing-svg)
-
 <br>       
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangrishh&" alt="dangrishh" width="500" /></p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
