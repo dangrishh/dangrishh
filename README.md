@@ -36,7 +36,6 @@ I am a full-stack web and mobile developer with experience in the MERN stack and
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=aws,postgres,mongodb,git,github,javascript,react,next,typescript,nodejs,postman,figma&theme=light)](https://skillicons.dev)
 
-#
 
 [website]: 
 
