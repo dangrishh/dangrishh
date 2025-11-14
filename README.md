@@ -37,7 +37,7 @@ I am a full-stack web and mobile developer with experience in the MERN stack and
 
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- 
 - [**Portfolio**]([https://www.upwork.com/freelancers/~01c7aa2eaffbb35dbe?p=1923396891318284288)
 - [**Contact**](danieldetorres.info@gmail.com)
 
@@ -49,4 +49,5 @@ I am a full-stack web and mobile developer with experience in the MERN stack and
 </a>
 
 [website]: 
+-->
 
