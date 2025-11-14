@@ -35,6 +35,18 @@ I am a full-stack web and mobile developer with experience in the MERN stack and
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=aws,postgres,mongodb,git,github,javascript,react,next,typescript,nodejs,postman,figma&theme=light)](https://skillicons.dev)
 
+## Links
+<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+- [**Portfolio**]([https://www.upwork.com/freelancers/~01c7aa2eaffbb35dbe?p=1923396891318284288)
+- [**Contact**](danieldetorres.info@gmail.com)
+
+<a href="https://www.linkedin.com/in/daniel-de-torres-10a021222/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/dnldtrrs/#" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
 
 [website]: 
 
